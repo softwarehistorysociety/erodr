@@ -1,0 +1,28 @@
+@CHARSET "UTF-8";
+.logo-name {
+	font-name: "century-gothic";
+	/* color: #009900; */
+	color: #00A95C;
+}
+a, a:hover, a:visited {
+	text-decoration: none;
+	/* color: #009900; */
+	color: #00A95C;
+}
+a:hover { text-decoration: underline; }
+.btn-success { background-color: #009900; }
+footer { text-align: center; }
+.section-head {
+	padding: 8px;
+	margin-bottom: 10px;
+	background-color: rgba(50,50,50,0.5);
+	border: 1px solid rgba(50,50,50,0.5);
+	line-height: 25px;
+	font-size: 20px;
+	text-align: center;
+	border-radius: 10px;
+	-webkit-border-radius: 10px;
+}
+.long-name {
+	font-size: 80%;
+}

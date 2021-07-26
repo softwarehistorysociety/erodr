@@ -1,0 +1,16 @@
+<svg id="Twitter" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36" height="36" viewBox="0 0 36 36">
+  <defs>
+    <style>
+      .cls-1 {
+        fill-rule: evenodd;
+        filter: url(#filter);
+      }
+    </style>
+    <filter id="filter" x="142" y="2951" width="36" height="36" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#fff"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <path id="Forma_1" data-name="Forma 1" class="cls-1" d="M160,2951a18,18,0,1,0,18,18A18,18,0,0,0,160,2951Zm8.956,13.96,0.013,0.57a12.605,12.605,0,0,1-19.4,10.62,9.236,9.236,0,0,0,1.058.06,8.933,8.933,0,0,0,5.5-1.89,4.444,4.444,0,0,1-4.139-3.08,4.581,4.581,0,0,0,.835.08,4.479,4.479,0,0,0,1.167-.16,4.437,4.437,0,0,1-3.555-4.34v-0.06a4.535,4.535,0,0,0,2.007.56,4.443,4.443,0,0,1-1.372-5.92,12.567,12.567,0,0,0,9.134,4.63,4.379,4.379,0,0,1-.114-1.01,4.434,4.434,0,0,1,7.668-3.03,9.1,9.1,0,0,0,2.815-1.07,4.46,4.46,0,0,1-1.949,2.45,9.042,9.042,0,0,0,2.545-.7A8.893,8.893,0,0,1,168.956,2964.96Z" transform="translate(-142 -2951)"/>
+</svg>

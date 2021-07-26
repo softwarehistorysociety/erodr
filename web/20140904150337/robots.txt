@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /register
+Sitemap: http://www.erodr.com/sitemaps/sitemap_main.xml.gz
