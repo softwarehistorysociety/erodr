@@ -1,5 +1,7 @@
 # erodr Archive
 
+![2-iphone-left](images/2-iphone-left.png)
+
 ![logo_name](images/logo_name.png)
 
 A defunct LOCAL social app built by two University of Missouri students in the 20teens.
@@ -30,13 +32,12 @@ A defunct LOCAL social app built by two University of Missouri students in the 2
 * [Google Play Store](http://web.archive.org/web/20150314211524/https://play.google.com/store/apps/details?id=com.erodr.erodr#) - `https://play.google.com/store/apps/details?id=com.erodr.erodr`
 * [Apple App Store](http://web.archive.org/web/20170216050044/https://itunes.apple.com/us/app/erodr/id575044187) - `https://itunes.apple.com/us/app/erodr/id575044187`
 
+![background](images/background.png)
 
 
 
-![2-iphone-left](images/2-iphone-left.png)
 
 ![2-iphone-right](images/2-iphone-right.png)
 
 ![erodr on the App Store](iOS/erodr on the App Store.png)
 
-![logo](images/logo.png)
